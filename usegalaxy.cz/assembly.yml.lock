@@ -55,6 +55,7 @@ tools:
   - 170061c052ad
   - 5d365d5cbe9d
   - 60024a528cbd
+  - baf229b1fdfd
   - c388a21dcbf1
   - e5e767089163
   tool_panel_section_id: assembly
@@ -414,6 +415,7 @@ tools:
   owner: iuc
   revisions:
   - 0346286a3b0a
+  - 056f86469460
   - 9c942221e135
   - c6cec5ab35c1
   - dfb8a4497339
@@ -538,6 +540,8 @@ tools:
   owner: bgruening
   revisions:
   - 0fe699ced54f
+  - 10dc0f5a82e2
+  - 3ef480892a9f
   - 50b6ec4074f4
   - 5799092ffdff
   - 59150c883ed5
@@ -646,6 +650,7 @@ tools:
 - name: pretext_graph
   owner: iuc
   revisions:
+  - 1c2ebb81a211
   - 36ce83a739f2
   - 408ece2e4647
   tool_panel_section_id: assembly
@@ -660,5 +665,11 @@ tools:
   owner: iuc
   revisions:
   - 3d1d241ceff2
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+- name: teloscope
+  owner: iuc
+  revisions:
+  - 321ceb58023e
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
