@@ -542,6 +542,7 @@ tools:
   owner: iuc
   revisions:
   - 6b7622dda516
+  - a00df747f03c
   - c2803012bbb3
   - fc6c328c292f
   tool_panel_section_id: metagenomic_analysis
@@ -742,12 +743,14 @@ tools:
   - 24488fae5b04
   - 46a99bd1f10e
   - 6000b8a8dd9d
+  - 6a067bbd4e16
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_plot_ordination
   owner: iuc
   revisions:
   - 11d43fa12aab
+  - 2715e89adff4
   - 32f892954ef6
   - cee4982a717b
   tool_panel_section_id: metagenomic_analysis
@@ -758,6 +761,7 @@ tools:
   - 10a7732528b2
   - 7ed99cb39c9d
   - 92b82deaaed1
+  - fd170b83f148
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct
