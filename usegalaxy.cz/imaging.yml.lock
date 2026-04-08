@@ -660,6 +660,7 @@ tools:
   - 004c57179c61
   - 00feb1ecd040
   - 2dc244356765
+  - c297f2961ee5
   - e0af18405e37
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging

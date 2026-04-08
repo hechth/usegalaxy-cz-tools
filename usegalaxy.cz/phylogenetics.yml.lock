@@ -13,6 +13,7 @@ tools:
 - name: hyphy_busted
   owner: iuc
   revisions:
+  - 38ac249e5d69
   - 5da8672e89a3
   - caf23deba39a
   - e908c4003bd8
@@ -70,6 +71,7 @@ tools:
   owner: iuc
   revisions:
   - 5fd8dc04d6af
+  - 67fe4f52c1e5
   - 7852b50fabb7
   - d5d909979314
   tool_panel_section_id: phylogenetics

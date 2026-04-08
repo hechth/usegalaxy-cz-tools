@@ -142,6 +142,7 @@ tools:
   revisions:
   - 4e469b758915
   - 7b8cb2b02978
+  - a204f3983d22
   - d60df8727f59
   - e7c2674e01fe
   tool_panel_section_id: metagenomic_analysis
@@ -204,6 +205,7 @@ tools:
   owner: iuc
   revisions:
   - 4efeb75704c8
+  - 6bd7c48ff6ed
   - 7136e9ab70db
   - 7f3b59dee073
   - efe26de231ec
@@ -876,6 +878,7 @@ tools:
 - name: checkm_tree
   owner: iuc
   revisions:
+  - 5e445adeff70
   - 626ab1058170
   - 6d1c282e2ce2
   - ce3fd529a6ec
@@ -914,6 +917,7 @@ tools:
   revisions:
   - 0061483faf7d
   - 46bc08145439
+  - 81af66339b05
   - bb3b50fa4956
   - d0d9e52a46b8
   tool_panel_section_id: metagenomic_analysis
