@@ -86,6 +86,7 @@ tools:
 - name: bowtie2
   owner: devteam
   revisions:
+  - a470b376503d
   - d5ceb9f3c25b
   - f76cbb84d67f
   tool_panel_section_id: mapping
@@ -93,6 +94,7 @@ tools:
 - name: minimap2
   owner: iuc
   revisions:
+  - 3faf9a2bf58d
   - 539de907fd99
   - 5cc34c3f440d
   - 66367287b4e6

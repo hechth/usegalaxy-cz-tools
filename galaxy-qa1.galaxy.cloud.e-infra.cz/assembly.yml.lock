@@ -208,6 +208,7 @@ tools:
   revisions:
   - 0393c0415171
   - 0fe699ced54f
+  - 10dc0f5a82e2
   - 3ef480892a9f
   - 50b6ec4074f4
   - 5799092ffdff
@@ -319,13 +320,16 @@ tools:
   owner: bgruening
   revisions:
   - 5d365d5cbe9d
+  - baf229b1fdfd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: pretext_map
   owner: iuc
   revisions:
   - 0346286a3b0a
+  - 056f86469460
   - 9c942221e135
+  - bd07b0d0f568
   - c6cec5ab35c1
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -334,6 +338,7 @@ tools:
   revisions:
   - 36ce83a739f2
   - 408ece2e4647
+  - 8e422c873d02
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: genomescope
@@ -366,5 +371,11 @@ tools:
   revisions:
   - 78c533842eeb
   - e100a765370e
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+- name: teloscope
+  owner: iuc
+  revisions:
+  - 321ceb58023e
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
