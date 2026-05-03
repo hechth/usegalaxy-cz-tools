@@ -55,6 +55,7 @@ tools:
   - 170061c052ad
   - 5d365d5cbe9d
   - 60024a528cbd
+  - baf229b1fdfd
   - c388a21dcbf1
   - e5e767089163
   tool_panel_section_id: assembly
@@ -414,7 +415,9 @@ tools:
   owner: iuc
   revisions:
   - 0346286a3b0a
+  - 056f86469460
   - 9c942221e135
+  - bd07b0d0f568
   - c6cec5ab35c1
   - dfb8a4497339
   tool_panel_section_id: assembly
@@ -648,6 +651,7 @@ tools:
   revisions:
   - 36ce83a739f2
   - 408ece2e4647
+  - 8e422c873d02
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: pairtools_parse
@@ -660,5 +664,11 @@ tools:
   owner: iuc
   revisions:
   - 3d1d241ceff2
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+- name: teloscope
+  owner: iuc
+  revisions:
+  - 321ceb58023e
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
